@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishchal</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishchal27" alt="nishchal27" /></a> </p>
+<h3 align="center">A passionate full stack developer</h3>
 
 - 🔭 I’m currently working on [Digital Market Place: E-Commerce](https://digitalhipponextjs14-production.up.railway.app)
 
