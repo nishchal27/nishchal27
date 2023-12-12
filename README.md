@@ -21,6 +21,7 @@ objectives.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/https://dev.to/nishchaldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/nishchaldev" height="30" width="40" /></a>
 <a href="https://twitter.com/@nishchal27dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nishchal27dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nishchal-singh-a28234292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishchal-singh-a28234292" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6025092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6025092" height="30" width="40" /></a>
