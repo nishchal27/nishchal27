@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishchal</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Web Developer dedicated to building and
+optimizing user-focused websites for customers with various business
+objectives.</h3>
 
 - 🔭 I’m currently working on [Digital Market Place: E-Commerce](https://digitalhipponextjs14-production.up.railway.app)
 
