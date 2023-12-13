@@ -9,7 +9,7 @@ objectives.</h3>
 
 - 👯 I’m looking to collaborate on **generate various analytical charts based on data from any pdf or csv**
 
-- 👨‍💻 All of my projects are available at [https://ornate-sopapillas-0b6cd3.netlify.app](https://ornate-sopapillas-0b6cd3.netlify.app)
+- 👨‍💻 All of my projects are available at [https://nishchaldev.netlify.app](https://nishchaldev.netlify.app)
 
 - 📝 I regularly write articles on [https://nishchal.hashnode.dev](https://nishchal.hashnode.dev)
 
