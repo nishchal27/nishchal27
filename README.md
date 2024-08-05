@@ -3,7 +3,7 @@
 optimizing user-focused websites for customers with various business
 objectives.</h3>
 
-- 🔭 I’m currently working on [Digital Market Place: E-Commerce](https://digitalhipponextjs14-production.up.railway.app)
+- 🔭 I’m currently working on [Author AI]()
 
 - 🌱 I’m currently learning **Large Language Model and python**
 
