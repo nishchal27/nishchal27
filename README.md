@@ -3,7 +3,7 @@
 optimizing user-focused websites for customers with various business
 objectives.</h3>
 
-- 🔭 I’m currently working on [Author AI]()
+- 🔭 I’m currently working on [Author AI](https://page-ui-landingpage-template.vercel.app)
 
 - 🌱 I’m currently learning **Large Language Model and python**
 
